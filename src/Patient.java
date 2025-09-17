@@ -13,7 +13,7 @@ public class Patient {
         this.phoneNumber = phoneNumber;
     }
 
-    // Getters & Setters
+    // Getters and Setters
     String getPatientId() {
         return patientId; }
     void setPatientId(String patientId) {
