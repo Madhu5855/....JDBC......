@@ -2,7 +2,7 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
-// DAO class for handling Patient related DB operations
+// DAO class for handling Patient related Data Base operations
 public class PatientDAO {
 
     // database details
